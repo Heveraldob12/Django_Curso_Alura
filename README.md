@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Curso de boas praticas com Django**
 | :label: Tecnologias | Python, html(tecnologias utilizadas)
-| :rocket: URL         | https://cursos.alura.com.br/course/django-templates-boas-praticas
+| :rocket: URL         | https://cursos.alura.com.br/formacao-django
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png#vitrinedev)
