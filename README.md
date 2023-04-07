@@ -18,6 +18,13 @@ Criação de uma galeria de corpos celestes, chamada Alura Space.
 
 Esse site tem o intuito de abranger grande parte do Django para que eu possa aprender a utilizar esse framework de maneira mais efetiva e coerente.
 
+---
+
+Introductory Django courses:
+Creation of a gallery of celestial bodies, called Alura Space.
+
+This site is intended to cover a large part of Django so that I can learn to use this framework more effectively and coherently.
+
 ## Esse repositório inclui mais de um curso.
 
 
@@ -35,5 +42,8 @@ Esse site tem o intuito de abranger grande parte do Django para que eu possa apr
 
 [Django: autenticação de formulários e alerta](https://cursos.alura.com.br/course/django-autenticacao-formularios-alerta)
 
+
 ## 
 ☢️☢️☢️ Qualquer erro de código ou gramatical, por favor entrar em contato
+
+☢️☢️☢️ Any code or grammatical errors, please contact me
