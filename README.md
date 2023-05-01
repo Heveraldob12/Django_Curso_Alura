@@ -18,12 +18,16 @@ Criação de uma galeria de corpos celestes, chamada Alura Space.
 
 Esse site tem o intuito de abranger grande parte do Django para que eu possa aprender a utilizar esse framework de maneira mais efetiva e coerente.
 
+Eu estou fazendo um deploy para S3 no AWS(Amazon Web Service).
+
 ---
 
 Introductory Django courses:
 Creation of a gallery of celestial bodies, called Alura Space.
 
 This site is intended to cover a large part of Django so that I can learn to use this framework more effectively and coherently.
+
+I'm  deploying to S3 on AWS(Amazon Web Service).
 
 ## Esse repositório inclui mais de um curso.
 
@@ -42,6 +46,7 @@ This site is intended to cover a large part of Django so that I can learn to use
 
 [Django: autenticação de formulários e alerta](https://cursos.alura.com.br/course/django-autenticacao-formularios-alerta)
 
+[Django: CRUD e persistência no S3](https://cursos.alura.com.br/course/django-crud-persistencia-s3)
 
 ## 
 ☢️☢️☢️ Qualquer erro de código ou gramatical, por favor entrar em contato
