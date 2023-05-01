@@ -1,5 +1,5 @@
 from django.shortcuts import render,redirect
-from usuarios.forms import LoginForms, CadastroFroms
+from apps.usuarios.forms import LoginForms, CadastroFroms
 
 from django.contrib.auth.models import User
 from django.contrib import messages
@@ -65,4 +65,5 @@ def logout(request):
     auth.logout(request)
     messages.success(request, "Logout efetuado com sucesso!")
     return redirect('login')
-    
+
+
