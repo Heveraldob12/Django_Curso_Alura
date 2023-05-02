@@ -152,6 +152,7 @@ venv.bak/
 
 #######
 ./Scripts/*
+*/Scripts/*
 #######
 # mypy
 .mypy_cache/
