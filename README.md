@@ -49,6 +49,6 @@ I'm  deploying to S3 on AWS(Amazon Web Service).
 [Django: CRUD e persistência no S3](https://cursos.alura.com.br/course/django-crud-persistencia-s3)
 
 ## 
-☢️☢️☢️ Qualquer erro de código ou gramatical, por favor entrar em contato
+☢️☢️☢️ Qualquer erro de código ou gramatical, por favor entrar em contato **TODO O DEPLOY PARA AWS FOI INTERROMPIDO POR CAUSA DA CONTA GRATUITA**
 
-☢️☢️☢️ Any code or grammatical errors, please contact me
+☢️☢️☢️ Any code or grammatical errors, please contact me **ALL DEPLOY TO AWS STOPPED BECAUSE, I USE FREE TIER ACCOUNT**
