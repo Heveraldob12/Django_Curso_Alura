@@ -8,7 +8,10 @@ def index(request):
         messages.error(request, 'Usuário não logado')
         return redirect('login')
     fotografias = Fotografia.objects.order_by("data_fotografia").filter(publicada=True)
-    return render(request, 'galeria/index.html',{"cards" : fotografias})
+    tags = Fotografia.OPCOES_CATEGORIA
+    context = {"cards": fotografias, "tags": tags}
+    return render(request, "galeria/index.html", context)
+
 
 
 def imagem(request,foto_id):
@@ -66,6 +69,14 @@ def deletar_imagem(request, foto_id):
 
 
 def filtro(request,categoria):
+    if categoria == "TODOS":
+        fotografias = Fotografia.objects.order_by("data_fotografia").filter(
+            publicada=True
+        )
+
+        return render(request, "galeria/index.html", {"cards": fotografias})
+    
+    
     fotografias = Fotografia.objects.order_by("data_fotografia").filter(publicada=True, categoria=categoria)
     return render(request, 'galeria/index.html', {"cards": fotografias})
     
